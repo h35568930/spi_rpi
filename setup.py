@@ -34,6 +34,6 @@ setup(	name		= "spidev",
 	maintainer_email= "scaudle@doceme.com",
 	license		= "MIT",
 	classifiers	= classifiers,
-	url		= "http://github.com/doceme/py-spidev",
+	url		= "http://github.com/h35568930/spi_rpi",
 	ext_modules	= [Extension("spidev", ["spidev_module.c"])]
 )
